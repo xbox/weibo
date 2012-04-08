@@ -1,0 +1,8 @@
+this is a tony program to analysis sina weibo.
+
+if you want to run it,then you need:
+1. sina developer key,secret
+2. python,wxpython
+3. use mysql to creat a database and three tables:follows,friends,weibo
+
+Have fun!
